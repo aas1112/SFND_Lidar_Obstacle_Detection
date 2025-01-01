@@ -144,7 +144,6 @@ If you get build errors related to Qt5, make sure that the path for Qt5 is corre
    make
    ./environment
    ```
-
 #### Build from Source
 
 [PCL Source Github](https://github.com/PointCloudLibrary/pcl)
